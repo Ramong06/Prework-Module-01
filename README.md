@@ -1,3 +1,3 @@
-# Prework-Module-01
+# prework-study-guide
 
 Hello World
